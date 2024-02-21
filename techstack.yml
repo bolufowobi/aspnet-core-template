@@ -1,0 +1,1729 @@
+repo_name: bolufowobi/aspnet-core-template
+report_id: 910376e650bfa7263bf96fa3c2b8feec
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-21T07:33:37+00:00'
+requested_by: ismcagdas
+provider: github
+branch: master
+detected_tools_count: 125
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template
+  detection_source: Repo Metadata
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.24.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 2.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2020-11-12 12:36:01.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 15.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Entity Framework Core
+  description: Lightweight and cross-platform version of the popular Entity Framework
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 9.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: Castle Core
+  description: It provides common Castle Project abstractions including logging services
+  website_url: https://github.com/castleproject/Core
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/20916/default_6d17162c9963bc83521ee29cf394f349c95173f3.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Castle Windsor
+  description: A mature Inversion of Control container for .NET
+  website_url: http://www.castleproject.org/projects/windsor/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/2249/default_12b2b039b83152e7b9f24c0f61bfa26142f35614.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2020-06-04 09:31:16.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.5
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 19.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2017-03-28 08:01:16.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/AbpCompanyName.AbpProjectName.sln
+  detection_source: AbpCompanyName.AbpProjectName.sln
+  last_updated_by: Musa Demir
+  last_updated_on: 2019-07-03 06:18:59.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 3.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-30 06:54:20.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2017-03-27 13:03:18.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 4.6.3
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: SweetAlert
+  description: A beautiful replacement for JavaScript's "alert"
+  website_url: https://sweetalert.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://ucarecdn.com/c4c55828-7bcf-4661-8f4f-52745636aafd/
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 19.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-plugin-transform-es2015-modules-commonjs
+  description: This plugin transforms ES2015 modules to CommonJS
+  package_url: https://www.npmjs.com/babel-plugin-transform-es2015-modules-commonjs
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16037/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-plugin-transform-runtime
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/babel-plugin-transform-runtime
+  version: 6.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15849/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babel-standalone
+  description: Standalone build of Babel for use in non-Node.js environments
+  package_url: https://www.npmjs.com/babel-standalone
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18116/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: babelify
+  description: Babel browserify transform
+  package_url: https://www.npmjs.com/babelify
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15993/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: btoa
+  description: Btoa for Node.JS
+  package_url: https://www.npmjs.com/btoa
+  version: 1.1.2
+  license: MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17351/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-30 06:54:20.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: dts-bundle
+  description: Export TypeScript .d.ts files as an external module definition
+  package_url: https://www.npmjs.com/dts-bundle
+  version: 0.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17298/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-29 13:38:08.000000000 Z
+- name: exports-loader
+  description: Exports loader module for webpack
+  package_url: https://www.npmjs.com/exports-loader
+  version: 0.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16572/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: expose-loader
+  description: Expose loader module for webpack
+  package_url: https://www.npmjs.com/expose-loader
+  version: 0.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16741/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 6.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-autoprefixer
+  description: Parse CSS and add vendor-prefixed CSS properties using the Can I Use
+    database
+  package_url: https://www.npmjs.com/grunt-autoprefixer
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17148/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-compress
+  description: Compress files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-compress
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 0.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-csslint
+  description: Lint CSS files
+  package_url: https://www.npmjs.com/grunt-contrib-csslint
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17982/default_4fd967542aef030b38a14a6ad69d2f385c52808d.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-htmlmin
+  description: Minify HTML
+  package_url: https://www.npmjs.com/grunt-contrib-htmlmin
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17474/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-qunit
+  description: Run QUnit unit tests in a headless Chrome instance
+  package_url: https://www.npmjs.com/grunt-contrib-qunit
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 0.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-jscs
+  description: Grunt task for checking JavaScript Code Style with jscs
+  package_url: https://www.npmjs.com/grunt-jscs
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16510/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-saucelabs
+  description: Grunt task running tests using Sauce Labs
+  package_url: https://www.npmjs.com/grunt-saucelabs
+  version: 8.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17562/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: grunt-text-replace
+  description: Replace text in files using strings, regexs or functions
+  package_url: https://www.npmjs.com/grunt-text-replace
+  version: 0.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17667/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/jquery-validation/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/jquery-validation/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: gulp-shell
+  description: A handy command line interface for gulp
+  package_url: https://www.npmjs.com/gulp-shell
+  version: 0.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16370/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in markdown-it
+    cve_id: CVE-2022-21670
+    cve_url: https://github.com/advisories/GHSA-6vfc-qv3f-vr6c
+    detected_date: Jan 13
+    severity: moderate
+    first_patched: 12.3.2
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.11.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: postcss-color-function
+  description: PostCSS plugin to transform W3C CSS color function to more compatible
+    CSS
+  package_url: https://www.npmjs.com/postcss-color-function
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17634/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: postcss-custom-properties
+  description: Use Custom Properties Queries in CSS
+  package_url: https://www.npmjs.com/postcss-custom-properties
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17216/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: postcss-nesting
+  description: Nest style rules inside each other
+  package_url: https://www.npmjs.com/postcss-nesting
+  version: 2.3.1
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18691/default_d0e31e7e33b4207236b4a3eb4b502cff85101c1d.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: promise-polyfill
+  description: Lightweight promise polyfill. A+ compliant
+  package_url: https://www.npmjs.com/promise-polyfill
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16882/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 15.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: time-grunt
+  description: Display the elapsed execution time of grunt tasks
+  package_url: https://www.npmjs.com/time-grunt
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16275/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/bootstrap/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 19.0.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: tslint-loader
+  description: Tslint loader for webpack
+  package_url: https://www.npmjs.com/tslint-loader
+  version: 3.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16395/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: vinyl-buffer
+  description: Convert streaming vinyl files to use buffers
+  package_url: https://www.npmjs.com/vinyl-buffer
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16203/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: vinyl-source-stream
+  description: Use conventional text streams at the start of your gulp or vinyl pipelines
+  package_url: https://www.npmjs.com/vinyl-source-stream
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16081/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-30 06:54:20.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-30 06:54:20.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-30 06:54:20.000000000 Z
+- name: whatwg-fetch
+  description: A window.fetch polyfill
+  package_url: https://www.npmjs.com/whatwg-fetch
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/sweetalert/package.json
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2019-03-26 13:11:45.000000000 Z
+- name: xml2js
+  description: Simple XML to JavaScript object converter
+  package_url: https://www.npmjs.com/xml2js
+  version: 0.4.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16122/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/abp-web-resources/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+  vulnerabilities:
+  - name: xml2js is vulnerable to prototype pollution
+    cve_id: CVE-2023-0842
+    cve_url: https://github.com/advisories/GHSA-776f-qx25-q3cc
+    detected_date: Apr 8
+    severity: moderate
+    first_patched: 0.5.0
+- name: Abp
+  description: Abp
+  package_url: https://www.nuget.org/Abp
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13133/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Core/AbpCompanyName.AbpProjectName.Core.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Core/AbpCompanyName.AbpProjectName.Core.csproj
+  last_updated_by: İsmail ÇAGDAŞ
+  last_updated_on: 2017-03-27 13:03:18.000000000 Z
+- name: Abp.AspNetCore
+  description: Abp.AspNetCore
+  package_url: https://www.nuget.org/Abp.AspNetCore
+  version: 6.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13992/default_a1ff6c81042312eb58b632f4b1784221693d5520.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Abp.AutoMapper
+  description: Abp.AutoMapper
+  package_url: https://www.nuget.org/Abp.AutoMapper
+  version: 6.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13985/default_a1ff6c81042312eb58b632f4b1784221693d5520.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Application/AbpCompanyName.AbpProjectName.Application.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Application/AbpCompanyName.AbpProjectName.Application.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: AngleSharp
+  description: AngleSharp is the ultimate angle brackets parser library
+  package_url: https://www.nuget.org/AngleSharp
+  version: 0.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13174/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2019-12-23 08:50:12.000000000 Z
+- name: Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+  description: ASP.NET Core middleware for Entity Framework Core error pages
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13743/default_4056691b3b7b6737ac5df5ff7e15081a39ed930f.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.AspNetCore.Mvc
+  description: ASP.NET Core MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12878/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Web.Tests/AbpCompanyName.AbpProjectName.Web.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.DotNet.InternalAbstractions
+  description: Abstractions for making code that uses file system and environment
+    testable
+  package_url: https://www.nuget.org/Microsoft.DotNet.InternalAbstractions
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13689/default_d38a6d88fa73fea0e64b3d75e3f75ff6aebf7b80.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2020-11-12 12:36:01.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Analyzers
+  description: CSharp Analyzers for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Analyzers
+  version: 5.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15518/default_8ef2cf91bbbd7cddb2b64d6f4c09d8345b74f23a.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.EntityFrameworkCore.InMemory
+  description: In-memory database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.InMemory
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13150/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2020-11-12 12:36:01.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer.Design
+  description: Design-time Entity Framework Core Functionality for Microsoft SQL Server
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer.Design
+  version: 1.1.6
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13827/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Tools
+  description: Entity Framework Core Tools for the NuGet Package Manager Console in
+    Visual Studio
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.EntityFrameworkCore/AbpCompanyName.AbpProjectName.EntityFrameworkCore.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.Extensions.Configuration.EnvironmentVariables
+  description: Environment variables configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.EnvironmentVariables
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12955/default_85d1877c90581261989cc5e05023faec547467b3.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Core/AbpCompanyName.AbpProjectName.Core.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Core/AbpCompanyName.AbpProjectName.Core.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.Extensions.Configuration.Json
+  description: JSON configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Json
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12865/default_4ea11141d2970a66e9637b71cf054ab66968c217.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Core/AbpCompanyName.AbpProjectName.Core.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Core/AbpCompanyName.AbpProjectName.Core.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.Extensions.Logging
+  description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.Extensions.Options.ConfigurationExtensions
+  description: Provides additional configuration specific functionality related to
+    Options
+  package_url: https://www.nuget.org/Microsoft.Extensions.Options.ConfigurationExtensions
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12882/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: Microsoft.VisualStudio.Web.CodeGeneration.Design
+  description: Code Generation tool for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design
+  version: 5.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: NSubstitute
+  description: NSubstitute is a friendly substitute for .NET mocking libraries
+  package_url: https://www.nuget.org/NSubstitute
+  version: 4.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13290/default_f1d03070d16050375185746648c3b260664eace4.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2019-12-23 08:50:12.000000000 Z
+- name: Shouldly
+  description: Shouldly - Assertion framework for .NET
+  package_url: https://www.nuget.org/Shouldly
+  version: 3.0.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13821/default_d358fd76413e7b8cc458411fede039268825f8c2.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: alirizaadiyahsi
+  last_updated_on: 2019-02-08 08:07:16.000000000 Z
+- name: System.Net.NameResolution
+  description: Provides the System.Net.Dns class, which enables developers to perform
+    simple domain name resolution
+  package_url: https://www.nuget.org/System.Net.NameResolution
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13004/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2021-03-24 09:18:33.000000000 Z
+- name: System.Net.Primitives
+  description: Provides common types for network-based libraries, including System.Net.IPAddress,
+    System.Net.IPEndPoint, and System.Net.CookieContainer
+  package_url: https://www.nuget.org/System.Net.Primitives
+  version: 4.3.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12985/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/AbpCompanyName.AbpProjectName.Web.csproj
+  last_updated_by: Musa Demir
+  last_updated_on: 2019-07-03 06:18:59.000000000 Z
+- name: xunit.extensibility.execution
+  description: Includes xunit.execution.*.dll for extensibility purposes
+  package_url: https://www.nuget.org/xunit.extensibility.execution
+  version: 2.4.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13498/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: alirizaadiyahsi
+  last_updated_on: 2019-02-08 08:07:16.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  detection_source: test/AbpCompanyName.AbpProjectName.Tests/AbpCompanyName.AbpProjectName.Tests.csproj
+  last_updated_by: alirizaadiyahsi
+  last_updated_on: 2019-02-08 08:07:16.000000000 Z
+- name: abp-web-resources
+  description: Script and style resources for ASP.NET Boilerplate based web projects
+  package_url: http://bower.io/abp-web-resources
+  version: 3.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: yekalkan
+  last_updated_on: 2017-12-25 10:49:45.000000000 Z
+- name: blockUI
+  description: Simulate synchronous ajax by blocking - not locking - the UI
+  package_url: http://bower.io/blockUI
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 3.3.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-21 15:37:20.000000000 Z
+- name: famfamfam-flags
+  description: FamFamFam Flags icon pack
+  package_url: http://bower.io/famfamfam-flags
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: jquery-validation
+  description: Form validation made easy
+  package_url: http://bower.io/jquery-validation
+  version: 1.15.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: json2
+  description: JSON in JavaScript
+  package_url: http://bower.io/json2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: moment
+  description: Parse
+  package_url: http://bower.io/moment
+  version: 2.14.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: spin.js
+  description: A spinning activity indicator
+  package_url: http://bower.io/spin.js
+  version: 2.3.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-12-29 12:20:49.000000000 Z
+- name: sweetalert
+  description: A beautiful replacement for JavaScript's alert
+  package_url: http://bower.io/sweetalert
+  version: 1.1.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: toastr
+  description: Toastr's bower repo
+  package_url: http://bower.io/toastr
+  version: 2.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/bower.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/bower.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: components/jquery
+  description: JQuery JavaScript Library
+  package_url: https://packagist.org/components/jquery
+  version: '1.7'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/blockUI/composer.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/blockUI/composer.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
+- name: robloach/component-installer
+  description: Allows installation of Components via Composer
+  package_url: https://packagist.org/robloach/component-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/bolufowobi/aspnet-core-template/blob/master/src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/blockUI/composer.json
+  detection_source: src/AbpCompanyName.AbpProjectName.Web/wwwroot/lib/blockUI/composer.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2016-07-22 09:23:48.000000000 Z
